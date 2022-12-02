@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Selva</h1>
 <h3 align="center"><img src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif"/></h3>
-<h3 align="center">A passionate Frontend developer and Student from India</h3>
+<h3 align="center">A passionate Frontend and FullStack developer from India</h3>
 
 - 🔭 I’m currently working on **lot of project to master Backend**
 
